@@ -1,0 +1,29 @@
+# Ambientes e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+
+# Python / Ambientes virtuais (caso utilize scripts de processamento)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node (caso venha a utilizar)
+node_modules/
